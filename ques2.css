@@ -1,0 +1,12 @@
+.box{
+    height: 300px;
+    width: 300px;
+    border-radius: 5%;
+    background-color: salmon;
+    box-shadow: 10px 10px lightgrey;
+}
+/*
+This took around 10 minutes to make. Making the css part of the code was pretty easy
+since I remembered how to do border radius and there wasn't much to edit on the box, 
+but actually making the box took some time since I kept mixing up class with # indicator.
+*/
